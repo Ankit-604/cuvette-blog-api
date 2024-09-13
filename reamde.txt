@@ -1,0 +1,13 @@
+Cuvette api - MongoDB Atlas
+
+Connect to Cluster0
+
+username-kr704666
+pw -J06S0DjHilnCQhm1
+
+
+Connection string
+mongodb+srv://kr704666:J06S0DjHilnCQhm1@cluster0.ifwyu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+Compass
+mongodb+srv://kr704666:J06S0DjHilnCQhm1@cluster0.ifwyu.mongodb.net/
